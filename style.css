@@ -1,0 +1,16 @@
+body{
+	background-color: yellow;
+	background-image: linear-gradient(lightyellow,yellow);
+}
+#brand{
+	width: 140px;
+	height: 70px;
+	border:1px solid;
+	color:white;
+	background-color: blue;
+	border-radius: 50%;
+	text-align: center;
+	padding: 20px;
+	
+
+}
